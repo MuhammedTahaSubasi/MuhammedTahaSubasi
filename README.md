@@ -20,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedtahasubasi&show_icons=true&locale=en" alt="muhammedtahasubasi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedtahasubasi&" alt="muhammedtahasubasi" /></p>
+
+![snake gif](https://github.com/MuhammedTahaSubasi/MuhammedTahaSubasi/blob/output/github-contribution-grid-snake.gif)
