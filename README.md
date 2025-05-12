@@ -1,4 +1,4 @@
- [![MasterHead](https://www.techsoft.com.tr/foto/tur/orta/temiz-kod-yazma-pratikleri-41801.jpg)
+ ![MasterHead](https://www.techsoft.com.tr/foto/tur/orta/temiz-kod-yazma-pratikleri-41801.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Taha Subaşı</h1>
 <h3 align="center">İstanbul Gelisim University - Computer Engineer</h3>
 
