@@ -1,9 +1,8 @@
+ [![MasterHead](https://www.techsoft.com.tr/foto/tur/orta/temiz-kod-yazma-pratikleri-41801.jpg)
 <h1 align="center">Hi 👋, I'm Muhammed Taha Subaşı</h1>
 <h3 align="center">İstanbul Gelisim University - Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammedtahasubasi&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedtahasubasi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedtahasubasi" alt="muhammedtahasubasi" /></a> </p>
 
 - 📫 How to reach me **mtahasubasii@gmail.com**
 
@@ -19,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammedtahasubasi&show_icons=true&locale=en&layout=compact" alt="muhammedtahasubasi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedtahasubasi&show_icons=true&locale=en" alt="muhammedtahasubasi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedtahasubasi&" alt="muhammedtahasubasi" /></p>
